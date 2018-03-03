@@ -38,33 +38,50 @@ Use in line commenting "//" or "/*/" for longer comments for fields, complex cod
   /*
   * Implement all the functions of BalancedSearchTree
   */
+  ```
 * fields
+```java
   //Number of total students
+  ```
 * constructors
+```java
   /*
   * Constructor for BalancedSearchTree with parameters for item value and student names
   */
+  ```
 * methods
+```java
   /*
   * Implements the delete function for BalancedSearchTree 
   */
+  ```
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
+  ```java
       if(...) {
       }
+  ```
   * switch statement
+  ```java
       switch() {
         case 1: studentString = "Ben";
                 break;
         case 2: studentString = "Abby";
                 break;
       }
+      ```
   * while loops
+  ```java
       while(...) {
       }
+      ```
   * for loops
+  ```java
       for (int i = 0; i < count; i++) {
       }
+      ```
   * enhanced for loops
+  ```java
       for (String name : students){
       }
+      ```
