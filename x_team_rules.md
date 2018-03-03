@@ -21,9 +21,10 @@ or what needs more work.
 If we face difficulties we can either message in our FB group chat or post in the "Issues" section on github to alert other 
 members that help is needed or changes need to be made. 
 
-## How will will communicate difficulties with a task assigned to us
-
-
+## How will we communicate difficulties with a task assigned to us
+Don't afraid to ask for helps when facing difficulties and utilize the Facebook messenger and 'Issue' sections frequently.
+When someone else figures out the problem, post it on Github and share the solution and how one gets the solution.
+We can communicate in-person first when facing a really hard process, and if it's still not solved, we can meet up in the CS building for more help.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
