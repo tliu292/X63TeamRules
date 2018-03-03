@@ -37,11 +37,15 @@ Use in line commenting "//" or "/*/" for longer comments for fields, complex cod
 ```java
   /*
   * Implement all the functions of BalancedSearchTree
+  * @author teammates 
+  * @version 1.0
   */
+  public class BalancedSearchTree{
+  }
   ```
 * fields
 ```java
-  //Number of total students
+  private int number = 0;//Number of total students
   ```
 * constructors
 ```java
