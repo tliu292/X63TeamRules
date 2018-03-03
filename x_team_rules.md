@@ -27,7 +27,9 @@ When someone else figures out the problem, post it on Github and share the solut
 We can communicate in-person first when facing a really hard process, and if it's still not solved, we can meet up in the CS building for more help.
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We will constantly stay updated with each other, utilizing both Facebook messenger and the Github 'Issue' section regularly.
+We will always keep deadlines in mind and dedicate a certain amount of time to the team project each week, outside of the weekly meeting.
+We will have constant reminders as to when the assignments are due.
 
 
 
