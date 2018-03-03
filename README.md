@@ -6,7 +6,7 @@
        * GitHub username 1: RehanWisconsin
        * GitHub username 2: YuhanLiu11
        * GitHub username 3: tliu292
-       * GitHub username 4:
+       * GitHub username 4: Isabella52698
        * GitHub username 5:
    * When did you complete this exercise? 3/2/2018
    * How long did it take your team to complete this exercise? 1 hour
