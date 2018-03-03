@@ -1,10 +1,7 @@
 # X-Team 63 Style Guide
-
-<brief description of your team's opinion or philosophy regarding Style Guides>
 Stick to normal conventions of naming methods and classes, and keep it constant in each file. 
 
 ## Naming conventions
-<brief statement describing your team's naming conventions>
 For interface, class, and exception, the first letter of every phrase should be in uppercase and the remaining letters in lowercase, or written in UpperCaseClass conventions.
 For methods, parameters, and local variables, the first phrase should all be lowercase and the first letter of the remaining phrases should be uppercase. For other letters of the remaining phrases, it should be in lowercase. For example, it should be written in oneMethod() conventions.
 For all constants including instance constants and class constants, all letters should be in uppercase. Underscores instead of white spaces should be utilized.
@@ -30,18 +27,42 @@ For all constants including instance constants and class constants, all letters 
   private final int STUDENT_ID = 100;
   
 ## Commenting style for public and private members of a class or interface:
-
-<brief statement of your team's commenting style>
+Use Javadoc for every class interface and the methods inside each of those classes and interfaces.
+Use in line commenting "//" or "/*/" for longer comments for fields, complex code, or variables.
 
 ### Examples
 
 * classes
+  /*
+  * Implement all the functions of BalancedSearchTree
+  */
 * fields
+  //Number of total students
 * constructors
+  /*
+  * Constructor for BalancedSearchTree with parameters for item value and student names
+  */
 * methods
+  /*
+  * Implements the delete function for BalancedSearchTree 
+  */
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
+      if(...) {
+      }
   * switch statement
+      switch() {
+        case 1: studentString = "Ben";
+                break;
+        case 2: studentString = "Abby";
+                break;
+      }
   * while loops
+      while(...) {
+      }
   * for loops
+      for (int i = 0; i < count; i++) {
+      }
   * enhanced for loops
+      for (String name : students){
+      }
