@@ -46,14 +46,23 @@ Use in line commenting "//" or "/*/" for longer comments for fields, complex cod
 * constructors
 ```java
   /*
-  * Constructor for BalancedSearchTree with parameters for item value and student names
+  * Constructor for Treenode with parameters for item
+  * 
+  * @param String item
   */
+  public BalancedSearchTree(String item){
+  }
   ```
 * methods
 ```java
   /*
   * Implements the delete function for BalancedSearchTree 
+  *
+  * @param index delete the element in the array with index
   */
+  public void delete(int index){
+  
+  }
   ```
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
