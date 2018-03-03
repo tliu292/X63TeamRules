@@ -69,19 +69,19 @@ Use in line commenting "//" or "/*/" for longer comments for fields, complex cod
         case 2: studentString = "Abby";
                 break;
       }
-      ```
+  ```
   * while loops
   ```java
       while(...) {
       }
-      ```
+  ```
   * for loops
   ```java
       for (int i = 0; i < count; i++) {
       }
-      ```
+  ```
   * enhanced for loops
   ```java
       for (String name : students){
       }
-      ```
+  ```
