@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 63 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -9,8 +9,10 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
-
+We will all get together and read the program together and evenlly split up the tasks.
+We will split up the tasks evenlly so that everyone contributes and so that one person doesn't do all the work.
+If someone doesn't know how to complete their task, we can all pitch in and try to help out and reassign if necessary.
+If someone knows how to do the task, they can help to teach everyone else so that we all learn.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
