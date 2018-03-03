@@ -1,6 +1,6 @@
 
 # X-Team 63 Style Guide
-Stick to normal conventions of naming methods and classes, and keep it constant in each file. 
+We plan to use commenting and naming conventions that are commonly accepted in the CS community and detailed in the CS 300 style guide. 
 
 ## Naming conventions
 For interface, class, and exception, the first letter of every phrase should be in uppercase and the remaining letters in lowercase, or written in UpperCaseClass conventions.
