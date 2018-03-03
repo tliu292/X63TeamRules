@@ -1,3 +1,4 @@
+
 # X-Team 63 Style Guide
 Stick to normal conventions of naming methods and classes, and keep it constant in each file. 
 
@@ -33,6 +34,7 @@ Use in line commenting "//" or "/*/" for longer comments for fields, complex cod
 ### Examples
 
 * classes
+```java
   /*
   * Implement all the functions of BalancedSearchTree
   */
