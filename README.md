@@ -3,13 +3,13 @@
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions
    * What are the GitHub usernames of your team members?
-       * GitHub username 1:
-       * GitHub username 2:
-       * GitHub username 3:
+       * GitHub username 1: RehanWisconsin
+       * GitHub username 2: YuhanLiu11
+       * GitHub username 3: tliu292
        * GitHub username 4:
        * GitHub username 5:
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+   * When did you complete this exercise? 3/2/2018
+   * How long did it take your team to complete this exercise? 1 hour
 
 ## Table of Contents
 
