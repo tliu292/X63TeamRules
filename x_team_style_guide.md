@@ -5,7 +5,9 @@ Stick to normal conventions of naming methods and classes, and keep it constant 
 
 ## Naming conventions
 <brief statement describing your team's naming conventions>
-
+For interface, class, and exception, the first letter of every phrase should be in uppercase and the remaining letters in lowercase, or written in UpperCaseClass conventions.
+For methods, parameters, and local variables, the first phrase should all be lowercase and the first letter of the remaining phrases should be uppercase. For other letters of the remaining phrases, it should be in lowercase. For example, it should be written in oneMethod() conventions.
+For all constants including instance constants and class constants, all letters should be in uppercase. Underscores instead of white spaces should be utilized.
 
 ### Examples
 * interfaces: 
@@ -20,11 +22,11 @@ Stick to normal conventions of naming methods and classes, and keep it constant 
   public void deleteStudent() {...}
 * parameters:
   public void deleteStudent(int index) {...}
-* local variables
+* local variables:
   String studentName = "Isabella";
-* instance constants
+* instance constants:
   final int STUDENT_ID = 100;
-* class constants
+* class constants:
   private final int STUDENT_ID = 100;
   
 ## Commenting style for public and private members of a class or interface:
